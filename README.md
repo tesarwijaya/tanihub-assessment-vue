@@ -1,6 +1,5 @@
-# tanihub-assesment-vue
-
-> tanihub assesment skill mini project
+## tanihub-assesment-vue
+web apps client for consuming [API](https://github.com/tesarwijaya/tanihub-assesment-api)
 
 ## Build Setup
 
